@@ -9,3 +9,5 @@ Somos un e-commerce para que los clientes puedan adquirir productos a través de
 - React-Icons
 
 
+Vista del sitio web:
+https://proyecto-final-react-livid.vercel.app/
