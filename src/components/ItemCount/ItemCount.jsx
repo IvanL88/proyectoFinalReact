@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "./itemCount.module.css";
+import styles from "./ItemCount.module.css";
 import Alert from "@mui/material/Alert";
 
 const ItemCount = ({ stock, onAdd }) => {
