@@ -1,0 +1,10 @@
+.cart {
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 70px;
+  background-color: bla;
+}

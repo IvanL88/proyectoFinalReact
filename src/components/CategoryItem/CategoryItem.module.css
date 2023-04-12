@@ -1,0 +1,11 @@
+.container {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #e63946;
+}

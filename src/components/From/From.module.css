@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.btn {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
